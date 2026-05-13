@@ -1,5 +1,7 @@
 # Retail-Data-Engineering-Platform README
 
+<img width="1536" height="1024" alt="ChatGPT Image May 14, 2026, 02_00_17 AM" src="https://github.com/user-attachments/assets/7ba57204-03f4-437d-9f94-f48b03c53f32" />
+
 ```markdown
 # Retail-Data-Engineering-Platform
 
